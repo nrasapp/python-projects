@@ -22,6 +22,6 @@ while True:
     perimeter()
     area()
     ctn = input("\nDo you want to continue? (y/n): ")
-    if ctn == "n" or ctn == "n":
+    if ctn == "n" or ctn == "N":
         print("Thank you")
         break
